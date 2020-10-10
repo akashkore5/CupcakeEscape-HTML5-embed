@@ -1,1 +1,7 @@
 # CupcakeEscape-HTML5-embed
+
+THIS IS VERY INTRESTING GAME ! MADE WITH HTML AND JAVASCRIPT 
+
+YOU CAN GET MORE GAMES AT https://github.com/advaithsgames
+
+ENJOY AND SHARE!
